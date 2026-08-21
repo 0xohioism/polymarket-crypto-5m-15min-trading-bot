@@ -8,7 +8,7 @@ Live results and bot licensing: contact below.
 **Live Polymarket profile:** [polymarket.com/@ohioism](https://polymarket.com/@ohioism)  
 **Buy the bot / commercial license:** Telegram [@ohioism](https://t.me/ohioism)
 
-<video src="https://github.com/user-attachments/assets/f4c898cb-a8c7-4fdc-b008-28124149d878" controls width="100%">
+<video src="https://github.com/user-attachments/assets/538213df-c0a3-4933-a8e4-5317b05bb546" controls width="100%">
   Your browser does not support embedded video.
 </video>
 
