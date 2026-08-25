@@ -1,4 +1,4 @@
-# Polymarket Crypto 5-Minute Taker Bot
+# Polymarket Crypto 5, 15 Min Taker Bot
 
 ### Live-tested automated execution for BTC, ETH and SOL Up/Down markets
 
