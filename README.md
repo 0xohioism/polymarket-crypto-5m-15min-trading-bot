@@ -38,7 +38,7 @@ Exact thresholds, sizing, and risk controls ship only with the **licensed bot**,
 
 ### 1) Signal event → DN entry
 
-<img width="100%" alt="dash-flip" src="https://github.com/user-attachments/assets/d884db22-ad88-4c27-bca0-c848c4dcbac2" />
+<img width="100%" alt="dash-flip" alt="image" src="https://github.com/user-attachments/assets/dc80661f-2d7f-4b3c-887a-baba18057563" />
 
 
 A **signal event** fires and the system **buys DN** (Down) as a taker.
@@ -58,7 +58,8 @@ This matches how a live taker bot is audited: **timing, fill, size** on one scre
 
 ### 2) Pair economics: UP + DN cost under $1 (after fees)
 
-<img width="100%" alt="dash-dn-open" src="https://github.com/user-attachments/assets/6b7887a0-e15e-423b-b3d8-cbad6f05f678" />
+<img width="100%" alt="dash-dn-open" src="https://github.com/user-attachments/assets/f5b04a4d-4df1-42c2-b67d-f8e13d25c19f" />
+
 
 On a binary Up/Down market, **one side pays $1** and the other **$0**. A matched **UP + DN pair** therefore redeems **$1** at settlement, regardless of direction.
 
