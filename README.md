@@ -34,7 +34,7 @@ The live account has profitable months, losing days, drawdowns, fees, slippage a
 <img
   width="100%"
   alt="Signal-driven Down taker entry"
-  src="https://github.com/user-attachments/assets/dc80661f-2d7f-4b3c-887a-baba18057563"
+  src="https://github.com/user-attachments/assets/5d6dfd7e-3607-447a-8064-8c2aa788d367"
 />
 
 The dashboard connects the complete execution sequence on one screen:
@@ -55,6 +55,9 @@ market update → signal validation → DN taker order → fill reconciliation
   src="https://github.com/user-attachments/assets/3bb78134-5328-4864-aced-290588fdb75f"
 />
 
+<video src="https://github.com/user-attachments/assets/9e63452f-d33f-4a77-8a4f-789a8fdca417" controls width="100%">
+  Your browser does not support embedded video.
+</video>
 
 ## Verified live record
 
