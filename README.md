@@ -79,19 +79,6 @@ This is the professional frame behind many short-window taker books — includin
 
 ---
 
-## What you get when you buy
-
-| Included (licensed package) | Not in this GitHub README repo |
-|-----------------------------|--------------------------------|
-| Full bot source / setup help (per deal) | Public strategy source |
-| Config for live Polymarket trading | Guaranteed profit |
-| Support via Telegram | Financial advice |
-
-**To purchase:** message Telegram **[@ohioism](https://t.me/ohioism)**  
-**To verify live trading:** [polymarket.com/@ohioism](https://polymarket.com/@ohioism)
-
----
-
 ## Contact
 
 | | |
