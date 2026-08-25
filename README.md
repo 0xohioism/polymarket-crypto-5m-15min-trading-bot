@@ -6,7 +6,7 @@ This repository is a **public overview only** — strategy source code is **not*
 Live results and bot licensing: contact below.
 
 **Live Polymarket profile:** [polymarket.com/@ohioism](https://polymarket.com/@ohioism)  
-**Buy the bot / commercial license:** Telegram [@ohioism](https://t.me/ohioism)
+**Buy the bot / commercial license:** Telegram [@ohioism](https://t.me/ohioism)  
 **More Info on Medium:** [medium.com/@ohioism](https://medium.com/@ohioism)  
 
 
