@@ -55,7 +55,7 @@ market update → signal validation → DN taker order → fill reconciliation
   src="https://github.com/user-attachments/assets/3bb78134-5328-4864-aced-290588fdb75f"
 />
 
-<video src="https://github.com/user-attachments/assets/9e63452f-d33f-4a77-8a4f-789a8fdca417" controls width="100%">
+<video src="[https://github.com/user-attachments/assets/9e63452f-d33f-4a77-8a4f-789a8fdca417](https://github.com/user-attachments/assets/99829a0e-3173-4ce8-8e37-48684c94c200)" controls width="100%">
   Your browser does not support embedded video.
 </video>
 
