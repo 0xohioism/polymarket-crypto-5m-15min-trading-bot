@@ -18,6 +18,7 @@ The live account has profitable months, losing days, drawdowns, fees, slippage a
 | Commercial license | Telegram [@ohioism](https://t.me/ohioism) |
 | Capital or R&D partnership | Telegram [@ohioism](https://t.me/ohioism) |
 | Research notes | [medium.com/@ohioism](https://medium.com/@ohioism) |
+| Twitter | [x.com/0xohioism](https://x.com/0xohioism/status/2090846151884820872) |
 
 > **No guaranteed returns.** Historical account results are not a promise that another account, configuration, market regime or deployment will produce the same result.
 
